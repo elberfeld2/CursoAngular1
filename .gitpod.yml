@@ -1,0 +1,8 @@
+tasks:
+    - command: npm install -g typescript && npm install -g @angular/cli
+vscode:
+  extensions:
+    - Mikael.Angular-BeastCode@8.1.1:zs+UbkVfAHEN0GF4MPvEKA==
+    - johnpapa.Angular2@9.1.2:uM4PeIXJe98IILNHmOn+nA==
+    - Angular.ng-template@0.1000.7:0IUEFuDEuIrPL5WlPLev9A==
+    - esbenp.prettier-vscode@5.1.3:t532ajsImUSrA9N8Bd7jQw== 
